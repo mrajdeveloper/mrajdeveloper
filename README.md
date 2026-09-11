@@ -38,7 +38,7 @@ Modern fitness and wellness website designed for an engaging user experience.
 
 ---
 
-## 🌐 Web Development Portfolio
+## 🌐 Featured Work
 
 | Project | Live Website |
 |---|---|
