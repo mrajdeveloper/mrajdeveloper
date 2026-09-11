@@ -30,3 +30,22 @@ Corporate technology and digital solutions website.
 Connect With Me
 
 LinkedIn | Instagram | Portfolio
+
+My Portfolio
+🌐 The North Walk
+🌐 Packzy
+🌐 Elite Ride Gear
+🌐 WebMinds Studio
+🌐 Lyon Sportosteo
+🌐 Astra Well Fit
+🌐 KZ Films
+🌐 Astra Fitness
+🌐 NG Financials
+🌐 Media Nest
+🌐 Sync Leather
+🌐 Smart Insurance
+🌐 The Apex Publishing
+🌐 E-Com Outsource
+🌐 Insurance Hub
+🌐 The D-zine Studio
+🌐 ABC Digital Solutions
