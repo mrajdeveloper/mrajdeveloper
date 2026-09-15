@@ -25,16 +25,19 @@ I build fast, responsive, scalable and user-focused websites for modern business
 ## ⭐ Featured Projects
 
 ### The D-Zine Studio
-Creative digital agency website focused on modern design and digital services.  
+
+Creative digital agency website focused on modern design, branding and digital services.  
 🌐 [Visit Website](https://thed-zinestudio.com/)
 
-### KZ Films
-Professional photography and videography portfolio website.  
-🌐 [Visit Website](https://kzfilms.studio)
+### Packzy
 
-### Astra Fitness
-Modern fitness and wellness website designed for an engaging user experience.  
-🌐 [Visit Website](https://astrafitness.fit/)
+Modern packaging and e-commerce website designed to present products clearly with a clean and user-friendly experience.  
+🌐 [Visit Website](https://packzy.com.pk/)
+
+### The North Walk
+
+The North Walk is a prominent retail shopping destination in Karachi. After the existing outsourced website fell short in terms of UI/UX, structure, and overall usability, I was brought in by the marketing team to completely redesign and rebuild the website from the ground up, delivering a more polished, modern, and customer-focused digital experience.  
+🌐 [Visit Website](https://thenorthwalk.com/)
 
 ---
 
