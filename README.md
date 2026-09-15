@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad 👋
 
-### Web Developer | WordPress • Shopify • CMS
+### Web Developer | End-to-End Web Solutions • UI/UX • E-Commerce
 
 I build fast, responsive, scalable and user-focused websites for modern businesses.
 
