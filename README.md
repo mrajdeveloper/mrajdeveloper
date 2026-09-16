@@ -31,7 +31,7 @@ Creative digital agency website focused on modern design, branding and digital s
 
 ### Packzy
 
-Modern packaging and e-commerce website designed to present products clearly with a clean and user-friendly experience.  
+Shopify-to-WordPress redevelopment focused on professional UI/UX, responsive design, improved usability and a more cost-effective website solution.  
 🌐 [Visit Website](https://packzy.com.pk/)
 
 ### The North Walk
